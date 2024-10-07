@@ -36184,7 +36184,7 @@ A.am1(o)
 return A.U(null,r)}})
 return A.V($async$nZ,r)},
 R(a){var s=null,r=A.a65("G-Class \ubaa8\ubc14\uc77c \ub370\ubaa8",s),q=t.nA
-return new A.t0(new A.oN(r,new A.Hl(s,s,1/0,56),s),A.LR(A.aas(A.a([A.a86(A.a([A.a5q(s,A.a5p(B.yj,s),100,new A.ML(this),s,"For Students"),A.tj(s,10,s),A.a65("\ucc44\ud638\uc5f0 \ud559\uc0dd",A.lq(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],q),B.dQ),A.tj(s,s,40),A.a86(A.a([A.a5q(s,A.a5p(B.yi,s),100,new A.MM(this),s,"For Professors"),A.tj(s,10,s),A.a65("\ub0a8\uc131\ud55c \uad50\uc218",A.lq(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],q),B.dQ)],q),B.ff,B.dQ,B.fW),s,s),s)}}
+return new A.t0(new A.oN(r,new A.Hl(s,s,1/0,56),s),A.LR(A.aas(A.a([A.a86(A.a([A.a5q(s,A.a5p(B.yj,s),100,new A.ML(this),s,"For Students"),A.tj(s,10,s),A.a65("\ud559\uc0dd",A.lq(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],q),B.dQ),A.tj(s,s,40),A.a86(A.a([A.a5q(s,A.a5p(B.yi,s),100,new A.MM(this),s,"For Professors"),A.tj(s,10,s),A.a65("\uad50\uc218",A.lq(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,s,!0,s,s,s,s,s,s,s,s))],q),B.dQ)],q),B.ff,B.dQ,B.fW),s,s),s)}}
 A.ML.prototype={
 $0(){this.a.nZ("student")},
 $S:0}
